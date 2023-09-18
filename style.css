@@ -1,0 +1,26 @@
+body{
+     background-color: aqua;
+     font-family: 'Belanosima', sans-serif;
+     color: #E93490;
+}
+.menu{
+     padding-left: 1rem;
+     display: flex;
+     flex-direction: column;
+     width: fit-content;
+}
+.tab{
+     padding: 1rem;
+     text-align: center;
+}
+p{
+     margin: 0;
+}
+a{
+     text-decoration: none;
+     color: #E93490;
+}
+a:hover{
+     color: #fc9fce;
+     text-decoration: underline;
+}
