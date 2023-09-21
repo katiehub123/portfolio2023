@@ -35,6 +35,11 @@ footer{
      background-color: #E93490;
      margin-top: auto;
 }
+footer p{
+     color: white;
+     text-align: center;
+     padding: 1.5vh;
+}
 /*MAIN*/
 .main{
      display: flex;
@@ -46,7 +51,7 @@ footer{
      grid-template-columns: 25% 25% 25% 25%;
      grid-template-rows: 20vw 20vw 20vw 20vw 20vw;*/
      display: flex; 
-     align-items: flex-start;
+     align-items: flex-end;
      margin-left: auto;
      flex-wrap: wrap;
      justify-content: flex-end;
