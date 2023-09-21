@@ -19,7 +19,7 @@ body{
      width: 10vw;
      margin-right: 10vw;
 }
-p{
+.tab p{
      margin: 0;
 }
 a{
@@ -38,7 +38,6 @@ footer{
 footer p{
      color: white;
      text-align: center;
-     padding: 1.5vh;
 }
 /*MAIN*/
 .main{
