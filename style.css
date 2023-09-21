@@ -42,10 +42,10 @@ footer{
 
 /*GALLERY*/
 .gallery{
-     display: grid;
+     /*display: grid;
      grid-template-columns: 25% 25% 25% 25%;
-     grid-template-rows: 20vw 20vw 20vw 20vw 20vw;
-     /* display: flex; */
+     grid-template-rows: 20vw 20vw 20vw 20vw 20vw;*/
+     display: flex; 
      align-items: flex-start;
      margin-left: auto;
      flex-wrap: wrap;
