@@ -48,6 +48,8 @@ footer{
      display: flex;
      align-items: flex-start;
      margin-left: auto;
+     flex-wrap: wrap;
+     justify-content: flex-end;
 }
 
 .showcase{
