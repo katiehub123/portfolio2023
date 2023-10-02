@@ -31,9 +31,12 @@ a:hover{
      text-decoration: underline;
 }
 footer{
-     height: 3rem;
+     height: 2.5rem;
      background-color: #E93490;
      margin-top: auto;
+     display: flex;
+     align-items: center;
+     justify-content: center;
 }
 footer p{
      color: white;
@@ -54,6 +57,7 @@ footer p{
      margin-left: auto;
      flex-wrap: wrap;
      justify-content: flex-end;
+     width: 1000px;
 }
 
 .showcase{
