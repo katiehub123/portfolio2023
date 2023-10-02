@@ -19,7 +19,7 @@ body{
      width: 10vw;
      margin-right: 10vw;
 }
-.tab p{
+p{
      margin: 0;
 }
 a{
@@ -54,18 +54,18 @@ footer p{
      margin-left: auto;
      flex-wrap: wrap;
      justify-content: flex-end;
+     width: 200rem;
 }
 
 .showcase{
-     background-color: #8ACEFF;
      border:  0.15rem solid black;
-     padding: 1rem;
+     padding: 0.2rem;
 }
 .showcaseWrapper{
      margin: 1rem;
      background-color: white;
      padding: 0.5rem;
-     padding-bottom: 1.7rem;
+     padding-top: 0.5rem;
      border: 0.2rem solid black;
      box-shadow: 0.5rem 0.5rem #fc9fce, 0.5rem 0.5rem 0 0.15rem black;
 }
