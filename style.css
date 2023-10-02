@@ -77,3 +77,10 @@ footer p{
      width: 2fr;
 }*/
 
+/*CONTENT*/
+.content{
+     display: flex;
+}
+.description{
+     padding: 10vh;
+}
