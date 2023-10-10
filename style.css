@@ -79,7 +79,7 @@ footer p{
 
 /*CONTENT*/
 .content{
-     display: flex;
+     display: block;
 }
 .description{
      padding: 10vh;
