@@ -68,6 +68,7 @@ footer p{
 }
 .showcaseWrapper{
      margin: 1rem;
+     align-self: center;
      background-color: white;
      padding: 0.5rem;
      padding-top: 0.5rem;
@@ -81,8 +82,15 @@ footer p{
 
 /*CONTENT*/
 .content{
-     display: block;
+     padding: 7vh;
+     display: flex;
+     flex-wrap: wrap;
 }
 .description{
      padding: 10vh;
+     line-height: 2.8vh;
+     font-size: 2vh;
+}
+.aboutme .content {
+     flex-wrap: nowrap;
 }
